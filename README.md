@@ -76,6 +76,7 @@ Gemini-powered reference assistant.
 | `DISCORD_APPLICATIONS_WEBHOOK_URL` | Sends application decision messages |
 | `FORM_WEBHOOK_SECRET` | Protects the main form receiver |
 | `SUBDIVISION_FORM_WEBHOOK_SECRET` | Protects the subdivision form receiver |
+| `OAUTH_API_SECRET` | Authenticates calls to the companion OAuth service |
 
 The bot also contains community-specific guild, role, and channel IDs in its
 feature modules. Update those IDs before deploying it to a different Discord

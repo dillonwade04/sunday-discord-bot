@@ -1,12 +1,19 @@
 
 import requests
 
+from config import OAUTH_API_SECRET
+
 OAUTH_BASE_URL = "https://auth.joincsso.org"  # Replace with your deployed OAuth2 site URL
 
 
 def check_user_authorization(user_id: int) -> bool:
     try:
-        response = requests.get(f"{OAUTH_BASE_URL}/check", params={"user_id": user_id}, timeout=10)
+        response = requests.get(
+            f"{OAUTH_BASE_URL}/check",
+            params={"user_id": user_id},
+            headers={"X-API-Key": OAUTH_API_SECRET},
+            timeout=10,
+        )
         if response.status_code == 200:
             data = response.json()
             return data.get("authorized", False)

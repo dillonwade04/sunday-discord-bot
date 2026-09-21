@@ -2,6 +2,8 @@ import discord
 from discord import app_commands
 import requests
 
+from config import OAUTH_API_SECRET
+
 OAUTH_SERVER = "https://auth.joincsso.org"
 # List of Discord user IDs allowed to use this command
 ALLOWED_USER_IDS = [971112440563650580, 333863427812491266, 425063639129522187, 707827105785839646, 825194202479460362, 605710549472247809, 502093975117627423, 846954987334271056, 811387676807790592, 1050918157252051045]
@@ -22,7 +24,10 @@ def register_commands(tree: app_commands.CommandTree):
         try:
             # Step 1: Check authorization and get token
             check_resp = requests.get(
-                f"{OAUTH_SERVER}/check", params={"user_id": user_id}, timeout=5
+                f"{OAUTH_SERVER}/check",
+                params={"user_id": user_id},
+                headers={"X-API-Key": OAUTH_API_SECRET},
+                timeout=5,
             )
             if check_resp.status_code != 200:
                 return await interaction.followup.send(
