@@ -1,0 +1,216 @@
+Carolina State Sheriff’s Office | SOP
+Ensure that as a CSSO deputy to follow these guidelines on and off duty.
+
+________________
+
+
+
+
+I. Purpose
+________________
+The purpose of this SOP is to establish guidelines and procedures for the effective and efficient operation of the Carolina State Sheriff's Office. This SOP will offer a standardized, technical breakdown of the various tasks and expectations both in-game and out of character. The goal of the SOP is to ensure that all of the Deputies of the Carolina State Sheriff's Office operate professionally while maintaining a high level of integrity and respect for the CSN community.
+
+
+
+This SOP applies to all CSSO Deputies on or off duty while in-game as you represent your Department and Rank.
+
+The Sheriff and Heads are responsible for ensuring that all of the Deputies are up to standard in the procedures set out by this SOP.
+
+The Carolina State Sheriff's Office members are responsible for familiarizing themselves with the procedures and standards established by the SOP. Respect and a professional attitude are a requirement of the Sheriff's Office. The Carolina State Sheriff's Office expects members to intervene if they observe another member acting out of order, or in violation of the SOP and report these issues to their direct Supervisor or the correct person following the Chain of Command.
+
+
+
+
+
+
+
+
+
+II. In-Game and Patrol Procedures
+________________
+2.1 Deputies must follow the basic use of force continuum taught in their basic training. As a basic requirement for less-than-lethal force, Deputies must give at least three verbal warnings before using force. Unjustified, or improper use of force is grounds for disciplinary action.
+        2.1.1 Taking tire shots while on as CSSO is not allowed and is grounds for disciplinary actions.
+2.2 Deputies are allowed to use a stun gun in the rain, but not in a pool, river, lake, or sea.
+2.3 Lethal force must follow Use of Force guidelines taught in training (refer to Basic Training Manual, Opportunity, Capability, Intent).
+2.4 Deputies may carry out a search if they have obtained Probable Cause that a crime has occurred, is in the process of occurring, or will occur in a reasonable time, with a warrant, or with the permission of the owner of a vehicle or property.
+        2.4.1 Deputies are allowed to detain a suspect to wait for a K9 unit to arrive. K9 walkarounds do not require permission, warrant, or probable cause, only reasonable suspicion.
+2.5 During an arrest, Deputies are required to inform the suspect of the crime they are being charged with before jailing.
+        2.5.1 Miranda rights are only required from the arresting Deputy when they are going to ask incriminating questions of a suspect. Deputies may Mirandize suspects at their own discretion otherwise.
+2.6 Deputies may transport prisoners if their patrol unit is equipped with a designated place to put them. If they are unable to transport themselves, they may employ the assistance of other LEO officers. (Deputies must transport prisoners in Code 1.)
+        2.6.1 Deputies are required to search every suspect before transport.
+2.7 Deputies must carry out traffic stops according to the steps and guidelines from their basic training (refer to Basic Training)
+2.8 When interacting with the public and with other LEO officers, Deputies must conduct themselves in a professional manner, and treat others with respect and dignity.
+2.9 Deputies must wear the uniform specified in the Uniform Roster while on patrol, unless given permission, in writing, to make modifications to their uniform by a Command member or above.
+2.9.1 Ped appearance on patrol must reflect a professional image.
+2.10 Deputies must follow the vehicle structure on the Vehicle Roster and only use the vehicles of their rank & color, or below while on patrol, unless given permission, inwriting, to modify their patrol unit by a Command member or above. (Car Color Applies to Private LEOs)
+2.10.1 Reckless driving is not tolerated and is grounds for disciplinary action.
+2.10.2 Speciality Vehicles are not prohibited while on patrol as CSSO, with or without LEO Lights.
+        2.11 Deputies must drive in accordance with CSN vehicle operation standards, i.e. not GTA driving, or using a vehicle unrealistically. Additionally, Deputies must follow traffic patterns and are not allowed to pursue suspects or go in opposite lanes of traffic, unless instructed to do so by a Command member or above.
+        2.11.1 The only exception to the rule above is when the Deputy can demonstrate that going in opposite lanes of traffic was the most prudent, and safe way to carry out their duty.
+2.12 Deputies may only repair their vehicles if they go to a mechanic shop. Keeping their vehicle in good repair is required.
+2.13 While in Code 1 (no lights, no sirens) Deputies must follow all standards already laid out, with the exception of stopping at red lights. Deputies may treat red lights as a stop sign and proceed through them after waiting for a minimum of 3 seconds.
+2.14 The Carolina State Sheriff's Office has full jurisdiction in the State of Carolina. There are no limits (outside of OOC areas) to where a Deputy may patrol or engage in RP. However the following is a breakdown of which RTO to use for which general patrol area.
+2.14.1) Los Santos RTOS: The greater Los Santos metro area (the city).
+Blaine County RTOS: The Sandy Shores, Fort Zancudo, Grapeseed, and surrounding highways. (May also include Humane Labs and portions of Northern Los Santos)
+        2.14.2) Highway RTOS: Paleto Bay, all territory north of Braddock Pass and Fort Zancudo can fall into this RTO. All major Highways in the State of Carolina also fall into this RTO regardless of geographic location, although Deputies should note that response time to southern parts of the highway system might be better serviced by LEO officers in Los Santos RTOS since response times may be delayed from officers that are in Paleto Bay.
+2.15 It is mandatory for Deputies to be in a CSN RTO in order to go on patrol. The use of ten codes is required while in RTO.
+2.15.1 Formal RTO is to be used when the server population reaches 40 or more players, as higher population requires clearer, more structured radio traffic to maintain organization and operational efficiency. When the server population is below 40 players, deputies are permitted to use Casual RTO, allowing for more relaxed communication while still maintaining professionalism. Regardless of population size, all radio traffic must remain clear, relevant, and appropriate for active scenes.
+2.16 Deputies may only break strict RTO when permitted by a CSSO Supervisor or above or by the › highest person in RTO otherwise.
+        2.16.1 Receiving an RTO Warning or other sort of RTO penalty is not grounds for an excused LOA or other form of absence, Deputies are still responsible for completing their duties.
+2.17 Deputies must adhere to the loadout provided in their basic training (refer to Basic Training Manual). The only exception is when given written permission by a Command member or above.
+Load.
+2.18 Deputies may use Pack Weapons freely in their loadouts in accordance with CSN Department Rules. However, Use of Force standards and guidelines still apply to these weapons while on duty. Deputies must also use these weapons responsibly, with due regard for life, and in accordance with other CSN server rules. The only exception with using Pack Weapons is that you are not permitted to use explosives.
+2.19 As a member of the Carolina State Sheriff's Office, you are expected to engage in high-quality, in-depth RP, at all times when representing the Sheriff's Office. Instances of breaking server rules, or promoting bad RP can result in discipline.
+2.20 Only Deputies who are Ride-Along Certified (RAC) may have additional personnel ride in their patrol vehicle unless a Lieutenant or higher grants explicit permission.
+2.20.1 This standard applies to those on standard CSSO patrol. Deputies on regular patrol may not ride with or host another deputy unless at least one holds RAC certification or Command Staff has provided authorization.
+2.20.2 Cross-department ride-along (10-12s) are not permitted. CSSO Deputies may not ride with another department as normal patrol under any circumstances.
+2.20.3 Subdivision Attachments: Deputies assigned to a subdivision must follow established attachment rules. Subdivisions may not independently coordinate attachments outside their approved pairings.
+2.20.4 Any exceptions to these standards must be authorized by Command or higher before patrol begins. Unauthorized 10-12s or attachments may result in disciplinary action.
+        2.20.5 Deputies participating in approved ride-alongs or cross-department patrols must maintain professionalism and represent the Carolina State Sheriff’s Office appropriately at all times.
+
+
+2.21 Any misuse of the LEO menu will result in strict and heavy punishments given the circumstances.  This includes but is not limited to utilizing it for Civ RP and for Staff situations.
+2.22 Deputies may not use X-Weapons on duty unless they possess the “X-Weapon Certified” Role in the Main CSN and CSSO HQ Discords. This certification is only available to those Leadership and above.
+2.23 While on patrol, deputies may not use any words that may be derogatory towards any group or person while in the presence of civilians.
+        2.23.1 This includes but is not limited to: N**ga, Retard, Queer, etc.
+        2.23.2 They may not use any of these words in RTO for any reason
+III. Department Standards
+________________
+3.1 Deputies must always act in a respectful manner in all Carolina State Sheriff's Office channels. They must treat all other members of the CSN community with respect.
+3.2 Initiating department tension, or abusing authoritative power to harbor a
+negative environment under any circumstance is grounds for removal from the department.
+3.3 Text channels, voice channels, and other CSSO resources must be used appropriately. Continuous misuse, or negligent behavior in these channels is grounds for discipline.
+3.4 Deputies must wear the badge according to their rank. Fonts, colors, and seals may not be modified unless permitted by a Head. Your badge must take up at least 75% of your profile picture.
+1. All Deputies can apply their countries' flag badge if they wish.
+2. Leadership+ may have anything that is appropriate behind their badge.
+3. Supervisors+ and Sub Department heads may add effects to their badge.
+4. Command may have a fully custom badge.
+     4.2  Low command must have badges approved by Administration
+5. Subdivision Heads Allowed Minimum Saber Effects (Must be Approved By Dept. Heads Or Subdivision Coordinator)
+6. All Deputies must have a their badge equipped in the HQ and Subdivision discords at all times.
+7. If your discord nitro expires you will have a 1 week "grace period" is re-equip your badge. After this, the rules above will apply.
+
+3.5 Names in the Sheriff's Office require a first initial and a last name for those below the rank of Patrol Commander. Formatted as "J. Doe". And callsigns to be placed in brackets (ex. [101] J.Doe])
+        3.5.1 Fonts and emojis are not permitted in the name of a Deputy below the rank of Lieutenant.
+3.6 Deputies are required to keep track of their hours via the Carolina State Sheriff's Clockify. Instructions on how to join the workspace will be given upon
+completion of your basic training.
+3.6.1 Names in Clockify must include your callsign, name, and badge.
+3.7 Any hours clocked towards subdivisions count towards your department rank requirements
+3.8 Subdivision personnel are prohibited from having any subdivision callsigns in the main CSN or CSSO HQ Discord.
+        3.7.1 if they're on patrol as that subdivision whilst in RTO it is allowed.
+        3.7.2 They may also have the subdivision callsign in-game, however it must be AFTER their CSSO callsign.
+3.8 All CSSO Paperwork is to stay with CSSO members only, distributing our paperwork to members outside of rank or outside of department will result in disciplinary actions.
+3.9 Any tampering/altering documents or being suspected of treasonous acts or intent will result in paperwork access being revoked until further notice
+3.10 All Leadership - Department Head Conversations or channels locked to them only are confidential, leaking of information from them will result in heavy disciplinary actions.
+3.11  The 'r slur' will be refrained from anyone within CSSO who is representing the Department. This can be for and not limited to patrolling, or during a meeting, etc. Professionalism for the department is expected to be upheld at all times.
+3.12 Deputies may not summon another deputy of the same rank. Summons should only be made to deputies of lower rank for official purposes. Misuse of summons authority may result in disciplinary action.
+
+
+IV. Department Expectations
+________________
+4.1 Members within CSSO must be the age of 14 years or older
+4.2 Role Permissions will only be granted to active CSSO High Command Staff+ for CSSO purposes only, using role permissions for any other department besides CSSO will result in the removal of role perms
+4.3  Everyone within CSSO, regardless of rank or status, is required to hold themselves to the highest standard. This includes those who are in a CSN FiveM server whether on duty or off duty, in any CSN Discord text channels, voice channels, group chats with CSN individuals, or anything affiliated with CSN.
+4.4 All members are required to abide by all CSN Discord, in-game rules, & CSSO Standard Operating Procedures.
+4.5 All members in CSSO are to meet their rank requirement every week unless excused, such as by an LOA, reserves, suspension, or specifically told otherwise by Command Staff+ which would be directed through an HR Ticket, otherwise is void.
+4.6 All members are responsible for logging their own duties correctly through the paperwork submission form, and Clockify.
+4.7 Chain of Command is to be followed at all times. Punishments will be handed out accordingly depending on the severity of the COC Breach.
+4.8 Respect for all peers must be maintained at all times, regardless of rank or situation. Any form of disrespect, favoritism, inappropriate behavior, or bullying will not be tolerated. If any individual feels overwhelmed by a situation, they should escalate the matter to a higher authority capable of addressing it.
+4.9 When a superior issues an order to a subordinate, that order must be followed respectfully and without question. If the order seems unreasonable, the subordinate has the right to request the presence of the superior’s supervisor.
+4.9.1 Any misuse of authority or violation of this protocol will lead to immediate disciplinary action for all parties involved.
+        4.9.2 Disrespect or disobedience towards orders will result in consequences determined by the disciplinary staff, possibly escalating to the department heads if necessary.
+        4.9.3 Any attempt to act as a superior without authority (insubordination) or to give orders to a superior will result in immediate disciplinary measures. Additionally, creating an unpleasant atmosphere or showing an argumentative attitude towards anyone is strictly prohibited.
+4.10 If something is not stated within the SOP directly, the individual is to contact a CSSO Department Head and talk to them first before taking any further actions, proceeding with an assumption, or anything of that nature, failure to do so may result in disciplinary actions.
+        4.10.1 if proven that you are trying to exploit loopholes in department SOP to your own benefit/evade trouble you may be handed disciplinary actions for your decision.
+4.11 Leadership+ is held to a higher standard above every other deputy, the higher your rank the more disciplinary actions you may face for actions unbecoming of a higher-ranking deputy, or exploitation/breaking of SOP Standards.
+
+V. Promotions
+________________
+5.1 Deputies are not allowed to ask for promotions outright. However, if they have a general question about the requirements for promotion, they are free to ask. Promotions are not guaranteed and are not determined solely by time at rank.
+5.2 Deputies may fill out the format in the Promotion Report Channel in the CSSO Discord but are not allowed to ask about their promotion directly or discuss the matter otherwise.
+5.3 Deputies may not encourage, ask, or discuss promotions of other members of the department unless they are able to promote them themselves. Any statements regarding promotions should not be public-facing and should be kept private.
+VI. Human Resources
+________________
+6.1 Deputies are expected to use the Human Resources system in a professional manner and must be respectful in their interactions.
+6.2 Individuals who wish to stay at their current rank may request to have their rank frozen through an HR ticket. This still entails full completion of requirements each week.
+6.3 All requests concerning LOA, reserves, reduced duties, name changes, transfer, or promotion recommendations are only to be done through the CSSO Human Resources ticket system in the CSSO Headquarters Discord.
+6.4 All individuals in CSSO will have 1 available name changes when they join the department. (Name change approvals are up to the discretion of the CSSO Administration Team.)
+6.5 Only individuals who are in good standing within the department and have completed 1 week of CSSO duties are eligible for reserves and is CSSO Leadership+.
+        6.5.1 To qualify for reserves, you must have completed the majority of their requirements during their total time in CSSO and been in CSSO for a minimum of two weeks. A valid reason for going on reserves, is at the full discretion of the CSSO Administration team.
+              6.5.2 Must be two weeks off of any recent disciplinary actions and completing requirements during the time with disciplinary
+6.6 Resigning and joining another department within 2 weeks of resigning from CSSO will result in an immediate blacklist from the department.
+6.7 Deputies may not have the same name as another deputy unless the existing deputy gives explicit approval. If a deputy does not approve, the requesting deputy must choose a different name. Name approvals should be handled respectfully, and deputies are not obligated to approve a duplicate name. If a dispute arises, Command Staff+ will have the final say on name assignments.
+6.8 Deputies are not permitted to go on Leave of Absence (LOA) without completing all of their requirements. Deputies must ensure they are in good standing prior to submitting an LOA request. Failure to meet requirements before requesting LOA may result in denial of the request or disciplinary action.
+
+
+
+
+Below are some more detailed descriptions of some of the most used Human Resources:
+
+Leave of Absence - A Leave of Absence excuses a deputy from all CSSO-related activities for a period of up to 21 days. Two weeks must pass between consecutive LOAs. You may not go on LOA to prioritize other departments or staffing. A deputy must have met their requirements and responsibilities to be eligible for an LOA. Leadership+ may take a mental health break once a month.
+Reserves - Reserves places Corporals+ a "dormant" state within the department for any period over 21 days and up to 1 year at a time. A deputy must have met their requirements and responsibilities to be eligible for Reserves.
+Badge Approvals - Deputies seeking to make any modification to a badge may open an HR Ticket to request approval.
+Transfers - Deputies interested in transferring to another department may
+open an HR Ticket to initiate the transfer. Those seeking to transfer
+must be 7 days removed from their most recent LOA, at least 14 days removed from Reserves, and meet requirements for a minimum of 2 weeks at current rank leading up to the request. Transferring while having disciplinary actions against you, is not allowed and cannot transfer until 14 days since your last disciplinary. Once the transfer is initiated, there is an additional waiting period. Deputies are not permitted to share information regarding their transfers to any personnel besides their assigned HR representative; doing so may result in the transfer being revoked.
+Requirement Adjustments - Deputies seeking to adjust department
+expectations can open an HR Ticket to explore their options. Those seeking to adjust their requirements must have a valid reason.
+Resignation - Deputies seeking to resign are required to open an HR ticket to properly resign. Improper resignation is grounds for a blacklist from CSSO.
+Name Changes - Deputies seeking to change their name may do so via the HR system. Deputies get one name change, and all requests are subject to review. Name changes for individuals at or above the rank of Sergeant are only permitted under very specific circumstances.
+
+
+Human Resources requests are not guaranteed, or granted automatically and are ultimately up to the Head of Human Resources and the Sheriff.
+
+Human Resources privileges are subject to be revoked if they are misused. For resignations, transfers, voluntary demotions, or reserve-related situations, Deputies have a 24-hour grace period. During the grace period, they are able to revoke the action themselves and be reinstated to their previous state. The 24 hours begin when the request is fulfilled and or logged.
+
+Human Resources privileges are at the head's discretion if the Deputy is not in good standing.
+VII. Dual-Clanning
+________________
+7.1 Department Leadership or above are not permitted to dual-clan by any means in any FiveM community. Retired members are exempt from this leadership restriction. For all non-leadership deputies, dual clanning is restricted and permitted only on Free Roam, Drift, and Zombie (PvE) FiveM servers.
+7.1.1 Participation in RP servers is strictly prohibited. Retired members must also follow this restriction regarding RP servers. All members are expected to uphold CSSO standards and expectations at all times, and violations of this policy may result in disciplinary action.
+        7.1.2 The only exceptions are test servers, which must be approved by Heck first.
+7.3 Those who Dual clan by violating the above policies will be punished by being blacklisted from CSSO.
+
+
+
+
+VIII. Discipline
+________________
+8.1 Discipline is at the discretion of the Chief of Discipline of CSSO and can include strike, probation, suspension, vehicle order, supervisor order, special assignment, up to termination, and blacklist.
+8.2 Everyone within CSSO, regardless of rank or status, is required to hold themselves to the highest standard. This includes those who are in a CSN FiveM server whether on duty or off duty, in any CSN Discord text channels, voice channels, group chats with CSN individuals, or anything affiliated with CSN.
+8.3 Deputies are expected to adhere to any discipline handed out, Supervisors and Leadership members are required to act in accordance with punishment and make sure that it is being followed.
+8.4 Harassing or taunting a deputy who has been disciplined is not tolerated.
+Deputies seeking to appeal punishment may do so to the Sheriff.
+8.5 Receiving punishments in CSN servers or any related Discord server may
+Also lead to repercussions in CSSO, which is up to the Chief of Discipline, regardless of whether representing CSSO or not.
+8.6 Failure to complete requirements while not excused will result in
+disciplinary actions to the discretion of the present CSSO Supervisor's and Command Staff.
+8.7 If a Deputy is off duty, but still representing the Sheriff's Office in any way (i.e. callsign, rank, EUP, etc.) the Sheriff's Office standards of Quality of RP, professionalism, and demeanor all still apply and a Deputy may be held responsible for actions off-duty.
+IX. Blacklists
+9.1 Blacklists are given as a form of discipline by the Heads of the Carolina State Sheriff's Office. A blacklist means that the former Deputy in question may not rejoin the Sheriff's
+9.2 Blacklists are able to be appealed after a minimum of 30 days have passed. An appeal is not guaranteed to be accepted and there are no set guidelines for
+revoking a blacklist as every case is unique. Appeals may be sent to any of the Heads.
+In addition to discipline, a blacklist may also be issued to Deputies who resign more than 3 times.
+
+
+
+
+
+X. Internal Affairs
+________________
+
+
+10.1 Deputies may contact the Chief of Internal Affairs or the Sheriff for more information on Internal Affairs.
+10.2 Internal Affairs reports can be taken to any member of CSSO IAA (refer to IAA Directory in the CSN Discord Server).
+10.3 Internal Affairs accepts reports of misconduct, harassment, favoritism, or any other concerns a Deputy may have.
+10.4 Any reports regarding an IAA Representative for CSSO will have to be directed to CDA (refer to the IAA Directory in the CSN Discord Server).
+X. SOP Disclaimer
+________________
+This SOP is intended for general guidelines and procedures for the Carolina State Sheriff's Office. It is not intended to cover every possible situation that may arise in the course of activities within the Department. Deputies are expected to familiarize themselves with the procedures in this SOP and to conduct themselves in a manner consistent with the policies and procedures established by the department. If you have any questions or concerns about the application of this SOP to a particular situation, please consult with your supervisor or the Sheriff. SOP may be updated at any time, check in with the SOP to make sure you are following it all the way.
+
+
+
+
+DOCUMENT APPROVAL AND SIGNING OFF:
+Sheriff J.Mike
+ Carolina State Sheriff’s Office | SOP

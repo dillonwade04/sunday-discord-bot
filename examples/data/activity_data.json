@@ -1,0 +1,30 @@
+{
+    "blacklist": [
+        "Paradise State Roleplay",
+        "Paradise RP",
+        "CaliRP",
+        "California Roleplay",
+        "San Andreas State Roleplay",
+        "Trappin RP",
+        "Hoods of Chiraq",
+        "Highlife RP",
+        "Georgia State Role Play",
+        "Georgia State RP",
+        "Northeast Georgia Roleplay",
+        "Kentucky RP",
+        "HighLife Roleplay",
+        "ValleyRP",
+        "ValleyRP Semi Serious FREE GANGS",
+        "NoPixel 4.0 RP",
+        "Crenshaw RP",
+        "Streets Of Chiraq",
+        "FivePD 2.0",
+        "Extra Life Roleplay",
+        "Alabama State Roleplay",
+        "Impulse 99 Freeroam"
+    ],
+    "whitelist": [
+        "CSRP East",
+        "CSRP West"
+    ]
+}
